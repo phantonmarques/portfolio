@@ -1,0 +1,57 @@
+:root {
+    --bg-color-light: #FFFFFF;
+    --bg-color-dark: #000000;
+    --color-primary-1: #EDF7FA;
+    --color-primary-2: #C2E1F2;
+    --color-primary-3: #97CAE7;
+    --color-primary-4: #66AAD0;
+    --color-primary-5: #378DBD;
+    --color-primary-6: #3275B4;
+    --color-primary-7: #285EAD;
+    --color-primary-8: #144690;
+    --color-primary-9: #122C88;
+    --color-primary-10: #061A61;
+    --color-primary-11: #06054B;
+    --color-primary-12: #030231;
+    --color-secondary-1: #F5F5F5;
+    --color-secondary-2: #E6E6E6;
+    --color-secondary-3: #D6D6D6;
+    --color-secondary-4: #C7C7C7;
+    --color-secondary-5: #B8B8B8;
+    --color-secondary-6: #A8A8A8;
+    --color-secondary-7: #999999;
+    --color-secondary-8: #8A8A8A;
+    --color-secondary-9: #7A7A7A;
+    --color-secondary-10: #5C5C5C;
+    --color-secondary-11: #3D3D3D;
+    --color-secondary-12: #2E2E2E;
+    --color-secondary-13: #1F1F1F;
+    --color-secondary-14: #0F0F0F;
+}
+
+.color-primary-1 { color: var(--color-primary-1); }
+.color-primary-2 { color: var(--color-primary-2); }
+.color-primary-3 { color: var(--color-primary-3); }
+.color-primary-4 { color: var(--color-primary-4); }
+.color-primary-5 { color: var(--color-primary-5); }
+.color-primary-6 { color: var(--color-primary-6); }
+.color-primary-7 { color: var(--color-primary-7); }
+.color-primary-8 { color: var(--color-primary-8); }
+.color-primary-9 { color: var(--color-primary-9); }
+.color-primary-10 { color: var(--color-primary-10); }
+.color-primary-11 { color: var(--color-primary-11); }
+.color-primary-12 { color: var(--color-primary-12); }
+.color-secondary-1 { color: var(--color-secondary-1); }
+.color-secondary-2 { color: var(--color-secondary-2); }
+.color-secondary-3 { color: var(--color-secondary-3); }
+.color-secondary-4 { color: var(--color-secondary-4); }
+.color-secondary-5 { color: var(--color-secondary-5); }
+.color-secondary-6 { color: var(--color-secondary-6); }
+.color-secondary-7 { color: var(--color-secondary-7); }
+.color-secondary-8 { color: var(--color-secondary-8); }
+.color-secondary-9 { color: var(--color-secondary-9); }
+.color-secondary-10 { color: var(--color-secondary-10); }
+.color-secondary-11 { color: var(--color-secondary-11); }
+.color-secondary-12 { color: var(--color-secondary-12); }
+.color-secondary-13 { color: var(--color-secondary-13); }
+.color-secondary-14 { color: var(--color-secondary-14); }
